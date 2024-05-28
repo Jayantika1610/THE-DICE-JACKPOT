@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(53, 9, 44);
+}
+.title{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: rgb(153, 212, 153);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5rem;
+    font-size: 3rem;;
+}
+.area{
+    align-items:center;
+    display:flex;
+    justify-content: center;
+}
+.dices{
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color:green;
+
+}
